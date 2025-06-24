@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Github Pages!!!
+          Hello Github Pages!!!6ewr
         </a>
       </header>
     </div>
